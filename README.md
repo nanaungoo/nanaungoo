@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanaungoo
 - 👀 I’m interested in computer technology.
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
